@@ -1,4 +1,4 @@
-FROM xpfriend/jenkins-slave-nodejs:1.0.1
+FROM xpfriend/jenkins-slave-nodejs:1.0.2
 MAINTAINER ototadana@gmail.com
 
 ENV NODEJS_VERSION iojs-v1.8.1
